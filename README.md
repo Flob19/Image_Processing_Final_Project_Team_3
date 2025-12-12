@@ -10,6 +10,13 @@ This project implements and compares three deep learning models for single-image
 
 The goal is to upscale low-resolution images by a factor of 4x while maintaining or improving perceptual quality compared to traditional bicubic interpolation.
 
+## Authors
+
+- A. B. Bahi
+- Felix Floberg
+- Simon Que
+- 黎裴方東
+
 ## Prerequisites
 
 ### Coding Environment
@@ -267,6 +274,7 @@ dip-final-project-srgan/
 - SRCNN: "Image Super-Resolution Using Deep Convolutional Networks" (Dong et al., 2014)
 - SRGAN: "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network" (Ledig et al., 2017)
 - ESRGAN: "ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks" (Wang et al., 2018)
+- RCAN: Zhang, Y., Li, K., Li, K., Wang, L., Zhong, B., and Fu, Y., "Image Super-Resolution Using Very Deep Residual Channel Attention Networks", arXiv e-prints, Art. no. arXiv:1807.02758, 2018. doi:10.48550/arXiv.1807.02758.
 
 ## License
 
